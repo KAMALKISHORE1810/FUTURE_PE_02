@@ -1,4 +1,4 @@
-# FUTURE_PE_02 – UGC Ad Prompt Engineering
+# FUTURE_PE_02 – UGC Ad for Gym Protein Powder
 
 ## Project Overview
 This project demonstrates prompt engineering for AI-generated UGC ad content.
